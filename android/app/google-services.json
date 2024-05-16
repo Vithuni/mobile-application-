@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "157511563310",
+    "project_id": "admin-b58ff",
+    "storage_bucket": "admin-b58ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157511563310:android:e3d606e7bec84638adc7bf",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt6Gmt9c2LTOHrTe_mDFudVDwEjbcKvKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
